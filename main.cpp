@@ -26,7 +26,7 @@ int main() {
         // if the letter has not been guessed before call processGuess
             // call processGuess and store the result in a bool variable
             // use the bool variable from above and notify the user accordingly
-        // else the letter has not been guessed before tell them and go through the process again
+        // else the letter has been guessed before -> tell them and go through the process again
     }
     // end the game by calling endGame on the game object
     return 0;
